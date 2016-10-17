@@ -1,0 +1,28 @@
+ul#features{
+list-style: none;
+
+}
+
+div#gallery{
+
+
+}
+
+div#col5{
+height: 262px;
+}
+div#panel-heading{
+background-color: #d3d3d3;
+
+}
+footer#pg-footer{
+  background: black;
+}
+div#jumbotron{
+  padding-top: 190px;
+}
+form#form{
+  display: inline-block;
+  width: 30%;
+
+}
