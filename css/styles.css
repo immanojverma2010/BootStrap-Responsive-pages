@@ -1,36 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+/*--navbar list-style--*/
 ul#features{
-list-style: none;
-
+  list-style: none;
 }
-
-div#row1{
-
-
-}
-div#gallery{
-
-
-}
-
+/*--for proper height of column--*/
 div#col5{
   margin-top: 4px;
-
 }
+/*--properties of about box--*/
 div#about{
   text-align: justify;
 }
+/*--properties of panel--*/
 div#panel-heading{
-background-color: #d3d3d3;
+  background-color: #d3d3d3;
 
 }
+/*--Page header properties--*/
 footer#pg-footer{
   background: black;
 }
+/*--jumbotron-properties--*/
 div#jumbotron{
   padding-top: 190px;
+
 }
+h2{
+
+font-family: 'Tangerine', serif;
+font-size: 50px;
+
+}
+/*--form-style--*/
 form#form{
   display: inline-block;
   width: 30%;
-
 }
