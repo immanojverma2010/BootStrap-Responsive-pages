@@ -3,13 +3,18 @@ list-style: none;
 
 }
 
+div#row1{
+
+
+}
 div#gallery{
 
 
 }
 
 div#col5{
-height: 262px;
+  margin-top: 4px;
+
 }
 div#panel-heading{
 background-color: #d3d3d3;
