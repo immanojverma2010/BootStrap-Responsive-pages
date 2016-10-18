@@ -16,6 +16,9 @@ div#col5{
   margin-top: 4px;
 
 }
+div#about{
+  text-align: justify;
+}
 div#panel-heading{
 background-color: #d3d3d3;
 
